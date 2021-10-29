@@ -1,0 +1,100 @@
+[
+    {
+        "id": "6168baa79b8e027b9180718c",
+        "isActive": true,
+        "age": 23,
+        "name": "Dona Mccarthy",
+        "gender": "female",
+        "tags": [
+            "velit",
+            "voluptate",
+            "non"
+        ],
+        "greeting": "Hello, Dona Mccarthy! You have 3 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": "6168baa7f75840c433b50d4c",
+        "isActive": true,
+        "age": 33,
+        "name": "Dickson Carey",
+        "gender": "male",
+        "tags": [
+            "esse",
+            "dolore",
+            "proident"
+        ],
+        "greeting": "Hello, Dickson Carey! You have 3 unread messages.",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": "6168baa73249b08a8d50901f",
+        "isActive": false,
+        "age": 38,
+        "name": "Murray Lowery",
+        "gender": "male",
+        "tags": [
+            "minim",
+            "nisi",
+            "elit"
+        ],
+        "greeting": "Hello, Murray Lowery! You have 8 unread messages.",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": "6168baa731a633c0a79083c1",
+        "isActive": true,
+        "age": 31,
+        "name": "Winifred Callahan",
+        "gender": "female",
+        "tags": [
+            "et",
+            "voluptate",
+            "dolore"
+        ],
+        "greeting": "Hello, Winifred Callahan! You have 7 unread messages.",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": "6168baa76bd20fb1f16cecc3",
+        "isActive": false,
+        "age": 21,
+        "name": "Torres Merrill",
+        "gender": "male",
+        "tags": [
+            "enim",
+            "ut",
+            "excepteur"
+        ],
+        "greeting": "Hello, Torres Merrill! You have 6 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": "6168baa734480aeea1561e4e",
+        "isActive": false,
+        "age": 33,
+        "name": "Michelle Fuentes",
+        "gender": "female",
+        "tags": [
+            "mollit",
+            "excepteur",
+            "commodo"
+        ],
+        "greeting": "Hello, Michelle Fuentes! You have 2 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": "6168baa72eab7db542643443",
+        "isActive": true,
+        "age": 33,
+        "name": "Angelina Horton",
+        "gender": "female",
+        "tags": [
+            "sint",
+            "ut",
+            "nulla"
+        ],
+        "greeting": "Hello, Angelina Horton! You have 2 unread messages.",
+        "favoriteFruit": "strawberry"
+    }
+]
